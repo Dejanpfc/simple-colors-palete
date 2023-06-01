@@ -1,0 +1,1 @@
+# simple-colors-palete i made it for starters at my new school where i learn full stack development...I wanted to help then to learn colors and have one same place hex and decimal codes of diferent colors
